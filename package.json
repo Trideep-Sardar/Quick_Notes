@@ -1,0 +1,23 @@
+{
+  "name": "quick_notes-app",
+  "version": "1.0.0",
+  "description": "this is a web based note app create using pure js and bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trideep-Sardar/Quick_Notes.git"
+  },
+  "author": "trideep sardar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trideep-Sardar/Quick_Notes/issues"
+  },
+  "homepage": "https://github.com/Trideep-Sardar/Quick_Notes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
